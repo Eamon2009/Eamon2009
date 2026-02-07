@@ -50,10 +50,7 @@ I'm an aspiring **Systems & AI Engineer** with a strong interest in **operating 
 ---
 
 ## 📈 GitHub Stats
-
-- 🔥 Current Contribution Streak: **21 days**  
-- 🧩 Total Contributions: **64+**  
-- 📌 Focused on consistency, not shortcuts  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eamon2009&" alt="eamon2009" /></p>
 
 ---
 
