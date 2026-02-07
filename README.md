@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EAMON</h1>
 <h3 align="center">High school student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eamon2009&label=Profile%20views&color=b40e0e&style=flat" alt="eamon2009" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eamon2009)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eamon2009" alt="eamon2009" /></a> </p>
 
