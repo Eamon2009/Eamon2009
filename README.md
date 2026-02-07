@@ -50,7 +50,13 @@ I'm an aspiring **Systems & AI Engineer** with a strong interest in **operating 
 ---
 
 ## 📈 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eamon2009&" alt="Eamon2009" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Eamon2009&theme=dark&hide_border=true"
+    alt="GitHub streak stats for Eamon2009"
+  />
+</p>
+
 
 ---
 
