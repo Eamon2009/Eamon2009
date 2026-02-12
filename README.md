@@ -2,7 +2,7 @@
 
 ### High School Student from India 🇮🇳
 
-I'm an aspiring **Systems & AI Engineer** with a strong interest in **operating systems, kernels, and low-level computing**. I'm currently building my fundamentals step by step and exploring how modern AI systems work under the hood.
+I’m passionate about Systems & AI Engineering, with a strong interest in ,Neural networks,LLM'S, operating systems, kernels, and low-level computing.
 
 ---
 
