@@ -30,12 +30,6 @@ Currently developing skills in Python and exploring operating systems, system in
 
 ---
 
-## Contact
-
-📧 eamon112009@gmail.com
-
----
-
 ## Approach
 
 Build on fundamentals. Prioritize simplicity, correctness, and long-term reliability.
