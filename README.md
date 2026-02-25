@@ -1,27 +1,25 @@
-# Hi, I'm Eamon
-
-**High School Student | Systems & AI Learner | India**
+# Eamon
 
 Focused on building strong foundations in programming, Linux systems, and core computer science.  
-Interested in the intersection of **Systems and AI**, with long-term goals in low-level computing and reliable system design.
+Currently developing skills in Python and exploring operating systems, system internals, neural networks, and large language models.
 
 ---
 
-## Tech Stack
+## Technical Focus
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
-**Learning:** PyTorch, TensorFlow  
+**Currently Learning:** PyTorch, TensorFlow
 
 ---
 
-## GitHub Stats
+## Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Eamon2009&theme=dark&hide_border=true" />
@@ -31,10 +29,10 @@ Interested in the intersection of **Systems and AI**, with long-term goals in lo
 
 ## Contact
 
-📧 eamon112009@gmail.com  
+📧 eamon112009@gmail.com
 
 ---
 
-## Philosophy
+## Approach
 
-**Fundamentals first. Clarity, correctness, and consistency over hype.**
+Build on fundamentals. Prioritize simplicity, correctness, and long-term reliability.
