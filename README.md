@@ -25,7 +25,7 @@ Currently developing skills in Python and exploring operating systems, system in
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eamon2009&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eamon2009 & theme=dark &hide_border=true" />
 </p>
 
 ---
