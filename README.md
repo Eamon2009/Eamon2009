@@ -1,6 +1,3 @@
-# Eamon
----
-
 ## Technical Focus
 
 <p align="left">
