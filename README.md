@@ -19,15 +19,6 @@ Currently developing skills in Python and exploring operating systems, system in
 
 
 **Currently Learning:** PyTorch, TensorFlow
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eamon2009&theme=dark&hide_border=true" />
-</p>
-
 ---
 
 ## Approach
