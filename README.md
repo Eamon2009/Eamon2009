@@ -1,8 +1,4 @@
 # Eamon
-
-Focused on building strong foundations in programming, Linux systems, and core computer science.  
-Currently developing skills in Python and exploring operating systems, system internals, neural networks, and large language models.
-
 ---
 
 ## Technical Focus
